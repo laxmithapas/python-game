@@ -1,0 +1,5 @@
+In a <place>, there was a <adjective> <animal> named <name>.
+
+One day, <name> found a <color> <object>. <name> and <friend's name>, a <adjective> <friend's animal>, decided to <verb> the <object>.
+
+They discovered it was magical and used it to bring joy to their <community>.
