@@ -1,4 +1,4 @@
-# Python Game Collections 
+# Python Game Collection
 
 This repository contains three fun and interactive Python games:
 
